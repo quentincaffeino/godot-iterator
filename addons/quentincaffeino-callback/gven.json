@@ -1,5 +1,5 @@
 {
-  "name": "quentincaffeino-callback",
+  "name": "quentincaffeino/callback",
   "autoload": {
     "QuentinCaffeino/Callback": "src"
   }
